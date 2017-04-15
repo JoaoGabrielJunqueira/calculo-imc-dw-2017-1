@@ -3,7 +3,7 @@ Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
 
-`git clone https://github.com/JoaoGabrielJunqueira/minibiografia-dw-2017-1`
+`git clone https://github.com/JoaoGabrielJunqueira/calculo-imc-dw-2017-1`
 
 ## Executando a aplicação
 
@@ -11,7 +11,7 @@ Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Acessando a aplicação
 
-Acesse `http://localhost:9090/minibiografia-dw-2017-1` em qualquer navegador.
+Acesse `http://localhost:9090/calculo-imc-dw-2017-1` em qualquer navegador.
 
 ## Como o projeto foi construído
 
